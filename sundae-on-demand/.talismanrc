@@ -1,0 +1,15 @@
+fileignoreconfig:
+- filename: yarn.lock
+  checksum: f37b8248bf7b841699722a8b598c5a092d70cea7070cec027d7db3ad8f6c767d
+- filename: package-lock.json
+  checksum: 98abb124b209a44fdb48b478b8f0cd1e8c706c241fd5f41c46efdb714c00116f
+- filename: package-lock.json
+  checksum: d4e1e7ebf4b1e027cb37a8a45bfb7f12a3f347d31d66ef23e982e59803ed208d
+- filename: package-lock.json
+  checksum: 5bcc349a3f12c345249c191eb9328854df7e4c0f062ff7c53165d47bf9d617c4
+- filename: package-lock.json
+  checksum: df1aa74b58319d7ea28ba383f3accde852f4910fafe45583e82adb2ab405edaa
+- filename: src/pages/entry/Options.jsx
+  checksum: 7767ae4cbcc29bfd00a854cdf18acd33eca5f41b51da54ff9084b9e652bb3640
+- filename: src/pages/summary/OrderSummary.jsx
+  checksum: 40c56838755b3c135d158c8d391338b876cb7033795b2676f74ecdda2fccb6d0

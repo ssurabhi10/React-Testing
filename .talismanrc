@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: sundae-on-demand/yarn.lock
+  checksum: ac389449e3c8a55a5eefdb3c86b39371b44fcd85fd1cf9fa0ebe82c67bfcce73
+- filename: sundae-on-demand/package-lock.json
+  checksum: c5577fc0fba244f4e47d47c697df2d1f147b26321d2487cd1a1b3cf0ebe68318
+- filename: sundae-on-demand/src/pages/entry/Options.jsx
+  checksum: bda6667e5b29d3e3a1e20175a4b7d9bd469ca7d6d222a0a96cc38f9e64207c33
+- filename: sundae-on-demand/src/pages/summary/OrderSummary.jsx
+  checksum: 878be1f2dff013b3a509768dfe6db84b76bc4378e931d088cbfacd6f91544418
