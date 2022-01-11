@@ -65,7 +65,7 @@ function OrderDetailsProvider(props) {
     }
 
     function resetOrder() {
-      setOrderCounts({
+      setOptionCounts({
         scoops: new Map(),
         toppings: new Map(),
       });

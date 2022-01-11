@@ -14,7 +14,7 @@ app.use(express.static('public'));
 const sundaeOptionsRaw = fs.readFileSync('./sundae-options.json', 'utf-8');
 const sundaeOptions = JSON.parse(sundaeOptionsRaw);
 
-app.get('/sccops', (req, res) => {
+app.get('/scoops', (req, res) => {
   // return data from file
   res.json(sundaeOptions.iceCreamFlavors);
 });
