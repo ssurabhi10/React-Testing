@@ -7,3 +7,5 @@ fileignoreconfig:
   checksum: bda6667e5b29d3e3a1e20175a4b7d9bd469ca7d6d222a0a96cc38f9e64207c33
 - filename: sundae-on-demand/src/pages/summary/OrderSummary.jsx
   checksum: 878be1f2dff013b3a509768dfe6db84b76bc4378e931d088cbfacd6f91544418
+- filename: sundae-server/package-lock.json
+  checksum: a27605c4bf5258ee65170661711ecbee132e38267475e81a8b911acbf76bf976
